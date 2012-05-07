@@ -6,4 +6,6 @@
   <packaging>war</packaging>
   <name>FC Demo Application</name>
   <description>This is my demo application for the cloud development module</description>
+  <dependencies>
+  </dependencies>
 </project>
