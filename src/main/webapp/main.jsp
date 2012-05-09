@@ -8,7 +8,7 @@
 <title>FC'c Web Application</title>
 </head>
 <body>
-Minimalist Running Footware
+Information on Minimalist Running Shoes
 
 <%= new java.util.Date()%>
 </body>
