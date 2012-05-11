@@ -8,7 +8,7 @@
 <title>FC'c Web Application</title>
 </head>
 <body>
-Information on Minimalist Running Shoes
+Athletics Events Results - London Olympics 2012
 
 <%= new java.util.Date()%>
 </body>
